@@ -1,2 +1,3 @@
-# study_defi
-study defi
+# DeFi를 공부하자
+
+[단어](단어.md)
